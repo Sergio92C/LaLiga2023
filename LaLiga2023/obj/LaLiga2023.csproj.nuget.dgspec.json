@@ -4,14 +4,163 @@
     "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj": {
+    "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\LaLiga2023.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj",
-        "projectName": "LaLiga2023",
-        "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\LaLiga2023.AccesoDatos.csproj",
+        "projectName": "LaLiga2023.AccesoDatos",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\LaLiga2023.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj"
+              },
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj",
+        "projectName": "LaLiga2023.Modelos",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj",
+        "projectName": "LaLiga2023.Utilidades",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +193,76 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj",
+        "projectName": "LaLiga2023",
+        "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\LaLiga2023.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\LaLiga2023.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.AccesoDatos\\LaLiga2023.AccesoDatos.csproj"
+              },
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Modelos\\LaLiga2023.Modelos.csproj"
+              },
+              "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\source\\repos\\LaLiga2023\\LaLiga2023.Utilidades\\LaLiga2023.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -57,6 +276,10 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -64,6 +287,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             }
           },
           "imports": [

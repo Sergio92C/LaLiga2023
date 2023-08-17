@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LaLiga2023.Modelos/1.0.0": {
+        "dependencies": {
+          "LaLiga2023.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "LaLiga2023.Modelos.dll": {}
+        }
+      },
+      "LaLiga2023.Utilidades/1.0.0": {
+        "runtime": {
+          "LaLiga2023.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaLiga2023.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LaLiga2023.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

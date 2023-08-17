@@ -1,0 +1,11 @@
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\bin\Debug\net7.0\LaLiga2023.Utilidades.deps.json
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\bin\Debug\net7.0\LaLiga2023.Utilidades.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\bin\Debug\net7.0\LaLiga2023.Utilidades.pdb
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\refint\LaLiga2023.Utilidades.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\LaLiga2023.Utilidades.pdb
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Utilidades\obj\Debug\net7.0\ref\LaLiga2023.Utilidades.dll

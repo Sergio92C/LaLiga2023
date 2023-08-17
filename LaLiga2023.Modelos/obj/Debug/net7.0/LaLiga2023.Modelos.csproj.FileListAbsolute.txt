@@ -1,0 +1,15 @@
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\bin\Debug\net7.0\LaLiga2023.Modelos.deps.json
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\bin\Debug\net7.0\LaLiga2023.Modelos.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\bin\Debug\net7.0\LaLiga2023.Modelos.pdb
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\bin\Debug\net7.0\LaLiga2023.Utilidades.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\bin\Debug\net7.0\LaLiga2023.Utilidades.pdb
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.csproj.CopyComplete
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\refint\LaLiga2023.Modelos.dll
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\LaLiga2023.Modelos.pdb
+C:\Users\Sergio\source\repos\LaLiga2023\LaLiga2023.Modelos\obj\Debug\net7.0\ref\LaLiga2023.Modelos.dll
